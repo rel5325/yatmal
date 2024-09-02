@@ -1,0 +1,4 @@
+repository "yatmal@REL5325@cloud"
+  path "/"
+    br "/main"
+    co "/main"
